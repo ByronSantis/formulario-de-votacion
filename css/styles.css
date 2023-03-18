@@ -1,0 +1,59 @@
+/*Estos son los styles para el formulario y todas sus etiquetas.*/
+*{
+    color: #000000;
+}
+
+h1{
+    font-size: 25px;
+    color: #000000;
+}
+
+label{
+    color: #000000;
+    display: inline-block;
+    width: 90px;
+    text-align: right;
+}
+
+select{
+    color: rgb(0, 0, 0);
+    position: relative;
+    right: -100px;
+    width: 177px;
+}
+::placeholder{
+    color: #b8b8b8;
+}
+
+.submit{
+    position: relative;
+    right: -230px;
+    width: 20%;
+}
+
+.form-register {
+    width: 500px;
+    background: #ffffff;
+    padding: 30px;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 4px;
+    color: white;
+    box-shadow: 7px 13px 37px #000000;
+}
+
+.controls {
+    color: rgb(0, 0, 0);
+    position: relative;
+    right: -100px;
+}
+
+
+
+
+
+
+
+
+  
+

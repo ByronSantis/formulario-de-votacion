@@ -1,0 +1,17 @@
+Todo lo del proyecto se encuentra acá.
+
+Instrucciones: 1. Vaya al enlace de compartir de GitHub para poder descargar o clonar el proyecto.
+                2. Una vez descargado el proyecto. Abra el proyecto en su editor que mas le guste.
+                3. Vera el proyecto todo comentado y se dara cuenta de cada funcion de script.
+                4. La base de datos esta incluida dentro del proyecto, y estara disponible para importar a mysql.
+                5. Una vez importada dentro mysql, se dara cuenta de los datos requeridos y datos de usuario prueba.
+                6. Una vez ya hecho todo esto, levante servidor php y abra el proyecto para que se visualice el proyecto o formulario de votacion.
+                7. Intente probar los input para ver si estan validados.
+                8. Intente ingresar un rut ya agregado a la bd para que vea que los rut no se pueden duplicar.
+                9. Luego puede ir probando los input por ej: una persona no puede agregar numeros en su nombre.
+                10. El Alias no puede dejar su caracter en menos de 5(E ir probando todas las validaciones.)
+                11. Las comunas region y comuna tienen su relacion.
+                12(final). genere una validacion para el rut y si me funcionaba, pero tuve unos problemas con la visualizacion y validacion del submit.
+              
+              PD: Espero tenga buen día.
+              Proyecto hecho por: Byron Santis
