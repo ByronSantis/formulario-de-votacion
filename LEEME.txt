@@ -13,7 +13,8 @@ Instrucciones: 1. Vaya al enlace de compartir de GitHub para poder descargar o c
                 11. Las comunas region y comuna tienen su relacion.
                 12(final). genere una validacion para el rut y si me funcionaba, pero tuve unos problemas con la visualizacion y validacion del submit.
               
-              PD: Espero tenga buen día.
+              PD: Agregué otras validaciones aparte de las validaciones que se me exigia, para que así la seguridad de los input,
+              no sea tan facil de burlar. Espero tenga buen día.
               Proyecto hecho por: Byron Santis
 
               Version de PHP: 8.1.5
